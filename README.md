@@ -1,25 +1,22 @@
 # cybersec
 
-¡Bienvenido/a a mi repositorio de ciberseguridad!
+Este repositorio funciona como un portafolio técnico y un compendio de proyectos en el dominio de la ciberseguridad. El contenido documenta la aplicación práctica de metodologías y herramientas tanto ofensivas como defensivas.
 
-Este espacio es mi portafolio personal y mi bitácora de aprendizaje. Aquí subo todos los proyectos, prácticas y notas relacionadas con el mundo de la ciberseguridad.
+La colección incluye:
 
-Mi objetivo es centralizar todo lo que he aprendido, tanto en plataformas de entrenamiento como en mi formación académica.
+Writeups de Plataformas: Análisis y soluciones detalladas de retos en entornos de entrenamiento como Hack The Box y TryHackMe.
 
-¿Qué encontrarás aquí?
-Writeups y Soluciones: Resoluciones detalladas de máquinas y retos de plataformas como Hack The Box y TryHackMe.
+Proyectos Académicos: Trabajos y prácticas desarrolladas durante la formación universitaria, enfocadas en la aplicación de fundamentos teóricos.
 
-Proyectos de Carrera: Prácticas, tareas y proyectos que realicé durante mis estudios, cubriendo una amplia gama de conceptos.
+Tutoriales y Guías: Documentación sobre el uso y configuración de herramientas, así como la ejecución de procedimientos técnicos.
 
-Tutoriales y Apuntes: Guías y notas personales sobre herramientas, técnicas y procedimientos.
+Áreas de Enfoque
+Los proyectos y análisis aquí presentados cubren un espectro amplio de la seguridad de la información, destacando los siguientes temas:
 
-Temas principales
-El contenido es variado, pero se enfoca principalmente en:
+Seguridad Ofensiva (Red Team): Análisis de vulnerabilidades, desarrollo y aplicación de exploits.
 
-Blue Team: Análisis, defensa y respuesta a incidentes.
+Seguridad Defensiva (Blue Team): Metodologías de respuesta a incidentes, análisis de logs y forense.
 
-Explotación de Vulnerabilidades: Desarrollo y análisis de exploits.
+Criptografía Aplicada: Implementación y análisis de algoritmos de cifrado y sus vulnerabilidades.
 
-Análisis de Malware y Cifrados: Entendiendo cómo funcionan las amenazas y la criptografía aplicada.
-
-Este repositorio está en constante construcción, reflejando mi camino y crecimiento en la ciberseguridad.
+Este repositorio sirve como un registro centralizado del desarrollo de habilidades y la exploración continua en el campo de la ciberseguridad.
