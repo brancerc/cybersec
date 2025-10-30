@@ -1,22 +1,40 @@
 # cybersec
 
-Este repositorio funciona como un portafolio técnico y un compendio de proyectos en el dominio de la ciberseguridad. El contenido documenta la aplicación práctica de metodologías y herramientas tanto ofensivas como defensivas.
+¡Bienvenido/a a mi repositorio de **ciberseguridad**!  
 
-La colección incluye:
+Este espacio funciona como mi **portafolio personal** y **bitácora de aprendizaje**, donde documento todo lo que voy aprendiendo, practicando y construyendo en el mundo de la seguridad informática.  
 
-Writeups de Plataformas: Análisis y soluciones detalladas de retos en entornos de entrenamiento como Hack The Box y TryHackMe.
+Mi objetivo es **centralizar el conocimiento y la experiencia** obtenida tanto en plataformas de entrenamiento como **Hack The Box** 🧩 y **TryHackMe** 🧠, así como en mis proyectos académicos y personales.  
 
-Proyectos Académicos: Trabajos y prácticas desarrolladas durante la formación universitaria, enfocadas en la aplicación de fundamentos teóricos.
+---
 
-Tutoriales y Guías: Documentación sobre el uso y configuración de herramientas, así como la ejecución de procedimientos técnicos.
+## 🧭 ¿Qué encontrarás aquí?
 
-Áreas de Enfoque
-Los proyectos y análisis aquí presentados cubren un espectro amplio de la seguridad de la información, destacando los siguientes temas:
+- 🧰 **Writeups y Soluciones:**  
+  Resoluciones detalladas de máquinas y retos de plataformas como Hack The Box y TryHackMe.  
 
-Seguridad Ofensiva (Red Team): Análisis de vulnerabilidades, desarrollo y aplicación de exploits.
+- 💻 **Proyectos de Carrera:**  
+  Prácticas, tareas y proyectos que desarrollé durante mis estudios, abarcando distintas áreas de la ciberseguridad.  
 
-Seguridad Defensiva (Blue Team): Metodologías de respuesta a incidentes, análisis de logs y forense.
+- 📘 **Tutoriales y Apuntes:**  
+  Guías y notas personales sobre herramientas, comandos, técnicas y metodologías de seguridad ofensiva y defensiva.  
 
-Criptografía Aplicada: Implementación y análisis de algoritmos de cifrado y sus vulnerabilidades.
+- ⚔️ **Temas principales:**  
+  - 🛡️ **Blue Team:** Análisis, defensa y respuesta ante incidentes.  
+  - 💣 **Explotación de Vulnerabilidades:** Desarrollo, pruebas y análisis de exploits.  
+  - 🧬 **Análisis de Malware y Cifrados:** Entendiendo cómo funcionan las amenazas y la criptografía aplicada.  
+  - 🔐 **Seguridad de Redes:** VPN, RDP seguro, monitoreo y hardening de sistemas.  
 
-Este repositorio sirve como un registro centralizado del desarrollo de habilidades y la exploración continua en el campo de la ciberseguridad.
+---
+
+## 🚀 En constante evolución  
+Este repositorio está en **crecimiento continuo**, reflejando mi camino en la ciberseguridad, el aprendizaje práctico y la mejora constante.  
+
+---
+
+## ⚠️ Uso responsable  
+> Todo el contenido es con fines **educativos** y debe ser utilizado **únicamente en entornos autorizados**.  
+> El conocimiento es poder, pero su uso ético es lo que define a un verdadero profesional.  
+
+---
+
